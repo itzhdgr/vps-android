@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://aim-powers-prior-early.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://entrepreneur-electronic-diff-consult.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-23 15:37:32 UTC
+Created   : 2026-08-23 20:38:26 UTC
 =======================================================
