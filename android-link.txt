@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://comments-realtor-copper-advertisements.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://berlin-cooked-frozen-besides.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-26 10:49:38 UTC
+Created   : 2026-08-26 16:31:52 UTC
 =======================================================
