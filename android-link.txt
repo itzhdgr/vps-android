@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://theft-contributions-lime-investigations.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://adjustment-combo-remove-washing.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-29 00:06:19 UTC
+Created   : 2026-08-29 06:28:46 UTC
 =======================================================
