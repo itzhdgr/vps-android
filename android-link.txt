@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://september-ipaq-salary-universities.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://deutsch-arrangements-magazine-coordination.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-03 09:43:21 UTC
+Created   : 2026-09-03 14:27:24 UTC
 =======================================================
