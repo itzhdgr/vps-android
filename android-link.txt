@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://cowboy-goal-retreat-individual.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://amended-frederick-tmp-medical.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-05 03:48:04 UTC
+Created   : 2026-09-05 09:04:34 UTC
 =======================================================
