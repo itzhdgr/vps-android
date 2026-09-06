@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://serves-editorial-readers-linked.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://make-psychology-thomson-phases.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-05 22:10:00 UTC
+Created   : 2026-09-06 03:49:27 UTC
 =======================================================
