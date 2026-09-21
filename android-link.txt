@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://receives-temple-large-therapy.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://varied-environments-inspired-inbox.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-21 20:05:50 UTC
+Created   : 2026-09-21 23:15:57 UTC
 =======================================================
